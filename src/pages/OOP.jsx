@@ -10,9 +10,7 @@ return (
         <p>4. Abstraction: Hiding complex implementation details and showing only essential features of an object.</p>
         <div className="Notes">
             <h3>Notes on OOP</h3>
-            <textarea placeholder="Write your notes here..." rows="10" cols="50">
-
-            </textarea>
+            <textarea placeholder="Write your notes here..." rows="10" cols="50"/>
 
         </div>
     </div>

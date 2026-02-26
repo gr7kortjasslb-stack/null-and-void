@@ -1,4 +1,4 @@
-import {Router, Router} from "react-router-dom";
+import {Router} from "react-router-dom";
 import Navbar from "../components/navbar";
 import Sidebar from "./Sidebar";
 
